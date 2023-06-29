@@ -1,0 +1,43 @@
+{
+    "coord": {
+        "lon": -1.5833,
+        "lat": 47.1667
+    },
+    "weather": [
+        {
+            "id": 803,
+            "main": "Clouds",
+            "description": "broken clouds",
+            "icon": "04d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temperature_label": 297.11,
+        "feels_like": 296.95,
+        "temp_min": 296.96,
+        "temp_max": 297.11,
+        "pressure": 1017,
+        "humidity": 53
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 4.12,
+        "deg": 350
+    },
+    "clouds": {
+        "all": 75
+    },
+    "dt": 1688050420,
+    "sys": {
+        "type": 1,
+        "id": 6574,
+        "country": "FR",
+        "sunrise": 1688011989,
+        "sunset": 1688069162
+    },
+    "timezone": 7200,
+    "id": 2990968,
+    "ville": "Arrondissement de Nantes",
+    "cod": 200
+}
